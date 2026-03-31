@@ -11,7 +11,7 @@ Each lab represents a complete, maintainable environment where I practice detect
 
 ## Splunk 101 - SOC Investigation - MyDFIR
 
-[View Project](https://github.com/dgcyberfolio/Enterprise-Projects/blob/main/Splunk%20101%20Capstone)
+[View Project](https://github.com/dgcyberfolio/Enterprise-Projects/blob/main/Splunk%20Capstone%20Project.md)
 
 **What I Built:**
 - Splunk Enterprise SIEM environment

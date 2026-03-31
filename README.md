@@ -5,7 +5,7 @@ Production-style lab environments for hands-on security operations, detection en
 
 ## What's Inside
 
-Each lab represents a complete, maintainable environment where I practice detection engineering, test security controls, and simulate real-world attack scenarios. These aren't one-time setups — they're the foundation for my [threat hunting investigations](https://github.com/shahm-1/Threat-Hunting-Portfolio) and query development.
+Each lab represents a complete, maintainable environment where I practice detection engineering, test security controls, and simulate real-world attack scenarios. 
 
 ---
 

@@ -30,7 +30,7 @@ Each lab represents a complete, maintainable environment where I practice detect
 
 ## Active Directory Attack Lab - MyDFIR
 
-[View Project](https://github.com/dgcyberfolio/Enterprise-Projects/blob/main/Active-Directory-Attack-Lab.md)
+[View Project](https://github.com/dgcyberfolio/Enterprise-Projects/blob/main/Active-Directory-Attack-Lab%20Git.md)
 
 **What I Built:**
 - Multi-VM Active Directory environment in VirtualBox

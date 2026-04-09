@@ -33,7 +33,7 @@ The lab covers the full attack lifecycle — from environment setup and tool con
 
 ### Network Diagram
 
-![Network Diagram](./images/AD_Project_drawio.png)
+![Network Diagram](./images/AD Project.drawio.png)
 
 > *Diagram built in draw.io showing all VMs, network connections, and data flow.*
 

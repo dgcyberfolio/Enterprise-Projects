@@ -5,7 +5,7 @@ Production-style lab environments for hands-on security operations, detection en
 
 ## What's Inside
 
-Each lab represents a complete, maintainable environment where I practice detection engineering, test security controls, and simulate real-world attack scenarios. 
+Each lab represents a complete, maintainable environment where I practice detection engineering, test security controls, and simulate real-world attack scenarios.
 
 ---
 
@@ -25,6 +25,28 @@ Each lab represents a complete, maintainable environment where I practice detect
 - Analyzed Sysmon telemetry
 - Created investigation timeline with evidence
 - Mapped findings to MITRE ATT&CK framework
+
+---
+
+## Active Directory Attack Lab - MyDFIR
+
+[View Project](https://github.com/dgcyberfolio/Enterprise-Projects/blob/main/Active-Directory-Attack-Lab.md)
+
+**What I Built:**
+- Multi-VM Active Directory environment in VirtualBox
+- Windows Server 2022 Domain Controller with AD DS
+- Splunk Enterprise SIEM with Universal Forwarder on all endpoints
+- Sysmon deployment using Olaf Hartong community configuration
+- Kali Linux attacker machine for offensive operations
+
+**What I Did:**
+- Executed RDP brute force attack using Crowbar against domain users
+- Detected attack telemetry in Splunk via Event IDs 4625 and 4624
+- Installed and ran Atomic Red Team to simulate MITRE ATT&CK techniques
+- Identified detection gaps in endpoint visibility
+- Mapped all attack activity to the MITRE ATT&CK framework
+
+---
 
 ## How I Use These Labs
 
@@ -46,6 +68,6 @@ Each lab represents a complete, maintainable environment where I practice detect
 - Document findings like real SOC investigations
 - Build portfolio evidence of practical skills
 
-**Skills Demonstrated:** Splunk SPL • Sysmon analysis • Log aggregation • Windows event monitoring • Attack chain reconstruction • Incident reporting
+**Skills Demonstrated:** Splunk SPL • Sysmon analysis • Log aggregation • Windows event monitoring • Attack chain reconstruction • Incident reporting • Active Directory administration • Brute force detection • Adversary simulation
 
-**Stack:** Splunk Enterprise • Universal Forwarder • Sysmon • Windows Server • SPL
+**Stack:** Splunk Enterprise • Universal Forwarder • Sysmon • Windows Server • Active Directory • Kali Linux • Crowbar • Atomic Red Team • VirtualBox • SPL
